@@ -1,0 +1,18 @@
+#
+# Deployment file for the UESP Retrospective
+#
+
+name = uesp.retro
+staged = false
+
+ignore = .hg*
+ignore = *.deploy
+ignore = *.sh
+ignore = .git
+ignore = .gitgnore
+ignore = .vscode
+ignore = .DS_Store
+ignore = .article
+
+dest = content3.uesp.net:/home/uesp/retro/www/
+
