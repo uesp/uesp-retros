@@ -416,7 +416,7 @@ hr {
 }
 .starfield::after {
 	width: 120dvw;
-	background: url(//images.starfieldwiki.net/backgrounds/lines_transparent_075.png) no-repeat,linear-gradient(var(--background),var(--background_dark));
+	background: url(../assets/images/lines_transparent_075.png) no-repeat,linear-gradient(var(--background),var(--background_dark));
 	position: absolute;
 	left: -4rem;
 	background-repeat: no-repeat;
