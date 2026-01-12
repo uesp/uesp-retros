@@ -747,6 +747,14 @@ hr {
 	gap: 12px;
 }
 
+.short-article .article {
+	height: auto !important;
+}
+
+.short-article .article .card {
+	padding-left: 9px;
+}
+
 /*================================================
 					Progress Lists
 ================================================*/
