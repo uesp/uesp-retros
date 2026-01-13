@@ -174,8 +174,8 @@ main.content::before {
 		width: fit-content;
 		margin: auto;
 		text-align: center;
-		color: white !important;
-		font-size: large;
+		color: black !important;
+		font-size: xxx-large;
 		font-weight: 500;
 	}
 }
